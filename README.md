@@ -9,7 +9,7 @@ There are several goals of this case study:
 All the datasets below can be found on [Amazon's Registry of Open Data on AWS](https://registry.opendata.aws/).  Specific links to the datasets are provided in the project descriptions.
 <br/>  
 ### Option 1: The Common Crawl  
-_Database size:_ more than 100 TB of data from more than 5 billion web pages  
+_Database size:_ more than 100 TB of data from more than 5 billion web pages (p.s. do NOT attempt 100 TB!)  
 _S3 Amazon resource name:_ `arn:aws:s3:::commoncrawl`  
 <br/>
 _Description:_  
