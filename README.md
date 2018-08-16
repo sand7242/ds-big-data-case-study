@@ -48,15 +48,13 @@ _References:_
 [NYC Taxi and Limo data on AWS](https://registry.opendata.aws/nyc-tlc-trip-records-pds/)  
 [NYC Yellow Cab galvanize DSI capstone](https://github.com/mkls2319/NYC_Yellow_Cab)
 ## Presentations
-At the end of the day your group will be expected to present for 5-10 minutes on your findings.  You can do this directly from your Jupyter
-notebooks (but realize that the audience is not going to read your code - use figures/plots and make results clear!)
+At the end of the day your group will be expected to present for 5-10 minutes on your findings.  You can do this directly from your README. 
 
-Cover the following in your presentation.
+Cover the following in your presentation:
 
-   1. Talk about what you planned to accomplish
-   2. How you organized yourselves as a team
-   3. How you accessed the data
-   4. How you decided on the question to answer
-   5. Your workflow (how did your work evolve from local to cloud development?)
-   6. Things learned along the way.
+   1. How you accessed the data
+   2. A description of what's in the data (EDA)
+   3. How you decided on the question to answer
+   4. Your workflow (how did your work evolve from local to cloud development?)
+   5. Things learned along the way.
 
